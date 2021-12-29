@@ -5,10 +5,10 @@ license="Academic Free License v3.0"
 [[mods]]
 modId="ender_io_remake"
 version="1.0.0"
-displayName="Ender_IO_Remake"
+displayName="Ender IO Remake"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
 displayURL="https://mcreator.net"
-authors="ORHAN, MCreator"
+authors="ProProf08Yasin, okunamayanad"
 
 [[dependencies.ender_io_remake]]
     modId="minecraft"

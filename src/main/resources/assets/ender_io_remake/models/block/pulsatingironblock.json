@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ender_io_remake:blocks/pulsating_iron_block",
+    "up": "ender_io_remake:blocks/pulsating_iron_block",
+    "north": "ender_io_remake:blocks/pulsating_iron_block",
+    "east": "ender_io_remake:blocks/pulsating_iron_block",
+    "south": "ender_io_remake:blocks/pulsating_iron_block",
+    "west": "ender_io_remake:blocks/pulsating_iron_block",
+    "particle": "ender_io_remake:blocks/pulsating_iron_block"
+  }
+}

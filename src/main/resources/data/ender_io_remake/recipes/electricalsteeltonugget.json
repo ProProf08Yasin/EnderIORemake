@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ender_io_remake:electricalsteelingot"
+    }
+  ],
+  "result": {
+    "item": "ender_io_remake:electricalsteelnugget",
+    "count": 9
+  }
+}

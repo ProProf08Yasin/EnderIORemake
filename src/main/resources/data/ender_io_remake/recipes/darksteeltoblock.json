@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "ender_io_remake:darksteelingot"
+    },
+    "1": {
+      "item": "ender_io_remake:darksteelingot"
+    },
+    "2": {
+      "item": "ender_io_remake:darksteelingot"
+    },
+    "3": {
+      "item": "ender_io_remake:darksteelingot"
+    },
+    "4": {
+      "item": "ender_io_remake:darksteelingot"
+    },
+    "5": {
+      "item": "ender_io_remake:darksteelingot"
+    },
+    "6": {
+      "item": "ender_io_remake:darksteelingot"
+    },
+    "7": {
+      "item": "ender_io_remake:darksteelingot"
+    },
+    "8": {
+      "item": "ender_io_remake:darksteelingot"
+    }
+  },
+  "result": {
+    "item": "ender_io_remake:darksteelblock",
+    "count": 1
+  }
+}

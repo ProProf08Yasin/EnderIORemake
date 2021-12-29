@@ -1,0 +1,128 @@
+{
+  "_fv": 24,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 1,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #1",
+          "x": 204,
+          "y": 48
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 2,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #2",
+          "x": 180,
+          "y": 64
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 3,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #3",
+          "x": 228,
+          "y": 64
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 4,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #4",
+          "x": 204,
+          "y": 96
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Alloy Smelter",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Alloy Smelter",
+          "x": 130,
+          "y": 42
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "alloypng.png",
+          "use1Xscale": false,
+          "name": "alloypng.png",
+          "x": 205,
+          "y": 65
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "alloy_left.png",
+          "use1Xscale": false,
+          "name": "alloy_left.png",
+          "x": 189,
+          "y": 65
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "alloy_right.png",
+          "use1Xscale": false,
+          "name": "alloy_right.png",
+          "x": 221,
+          "y": 65
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "alloy_down.png",
+          "use1Xscale": false,
+          "name": "alloy_down.png",
+          "x": 205,
+          "y": 81
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

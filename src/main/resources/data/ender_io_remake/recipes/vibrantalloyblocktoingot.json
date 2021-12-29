@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ender_io_remake:vibrantalloyblock"
+    }
+  ],
+  "result": {
+    "item": "ender_io_remake:vibrantalloyingot",
+    "count": 9
+  }
+}

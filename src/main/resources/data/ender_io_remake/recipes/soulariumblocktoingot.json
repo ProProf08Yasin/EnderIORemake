@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ender_io_remake:soulariumblock"
+    }
+  ],
+  "result": {
+    "item": "ender_io_remake:soulariumingot",
+    "count": 9
+  }
+}

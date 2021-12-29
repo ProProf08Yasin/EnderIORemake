@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "ender_io_remake:block/alloysmelter"
+    },
+    "facing=east": {
+      "model": "ender_io_remake:block/alloysmelter",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "ender_io_remake:block/alloysmelter",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "ender_io_remake:block/alloysmelter",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "ender_io_remake:block/alloysmelter",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "ender_io_remake:block/alloysmelter",
+      "x": 90
+    }
+  }
+}

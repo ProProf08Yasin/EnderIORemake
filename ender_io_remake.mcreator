@@ -1,0 +1,982 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Yetawrench",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "yetawrench"
+    },
+    {
+      "name": "Energeticalloyingot",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "energeticalloyingot"
+    },
+    {
+      "name": "Vibrantalloyingot",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vibrantalloyingot"
+    },
+    {
+      "name": "Redstonealloyingot",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "redstonealloyingot"
+    },
+    {
+      "name": "Pulsatingironingot",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pulsatingironingot"
+    },
+    {
+      "name": "Conductiveironingot",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "conductiveironingot"
+    },
+    {
+      "name": "Ironalloyingot",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ironalloyingot"
+    },
+    {
+      "name": "Darksteelingot",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darksteelingot"
+    },
+    {
+      "name": "Electricalsteelingot",
+      "type": "item",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "electricalsteelingot"
+    },
+    {
+      "name": "Soulariumingot",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "soulariumingot"
+    },
+    {
+      "name": "Endsteelingot",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endsteelingot"
+    },
+    {
+      "name": "EnderIORemake",
+      "type": "tab",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_io_remake"
+    },
+    {
+      "name": "Grainsofinfinity",
+      "type": "item",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "grainsofinfinity"
+    },
+    {
+      "name": "Conductiveironblock",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "conductiveironblock"
+    },
+    {
+      "name": "Darksteelblock",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darksteelblock"
+    },
+    {
+      "name": "Electricalsteelblock",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "electricalsteelblock"
+    },
+    {
+      "name": "Endsteelblock",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endsteelblock"
+    },
+    {
+      "name": "Energeticironblock",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "energeticironblock"
+    },
+    {
+      "name": "Ironalloyblock",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ironalloyblock"
+    },
+    {
+      "name": "Pulsatingironblock",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pulsatingironblock"
+    },
+    {
+      "name": "Redstonealloyblock",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "redstonealloyblock"
+    },
+    {
+      "name": "Soulariumblock",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "soulariumblock"
+    },
+    {
+      "name": "Vibrantalloyblock",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vibrantalloyblock"
+    },
+    {
+      "name": "Alloysmelter",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "alloysmelter"
+    },
+    {
+      "name": "Alloysmeltergui",
+      "type": "gui",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "alloysmeltergui"
+    },
+    {
+      "name": "Redstonealloytoblock",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "redstonealloytoblock"
+    },
+    {
+      "name": "Redstoneallayblocktoingot",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "redstoneallayblocktoingot"
+    },
+    {
+      "name": "Conductiveirontoblock",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "conductiveirontoblock"
+    },
+    {
+      "name": "Conductiveironblocktoingot",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "conductiveironblocktoingot"
+    },
+    {
+      "name": "Darksteeltoblock",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darksteeltoblock"
+    },
+    {
+      "name": "Darksteelblocktoingot",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darksteelblocktoingot"
+    },
+    {
+      "name": "Electricalsteeltoblock",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "electricalsteeltoblock"
+    },
+    {
+      "name": "Electricalsteelblocktoingot",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "electricalsteelblocktoingot"
+    },
+    {
+      "name": "Endsteeltoblock",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endsteeltoblock"
+    },
+    {
+      "name": "Endsteelblocktoingot",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endsteelblocktoingot"
+    },
+    {
+      "name": "Energeticirontoblock",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "energeticirontoblock"
+    },
+    {
+      "name": "Energeticironblocktoingot",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "energeticironblocktoingot"
+    },
+    {
+      "name": "Vibrantalloytoblock",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vibrantalloytoblock"
+    },
+    {
+      "name": "Vibrantalloyblocktoingot",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vibrantalloyblocktoingot"
+    },
+    {
+      "name": "Soulariumtoblock",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "soulariumtoblock"
+    },
+    {
+      "name": "Soulariumblocktoingot",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "soulariumblocktoingot"
+    },
+    {
+      "name": "Pulastingirontoblock",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pulastingirontoblock"
+    },
+    {
+      "name": "Pulsatingironblocktoingot",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pulsatingironblocktoingot"
+    },
+    {
+      "name": "Ironalloytoblock",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ironalloytoblock"
+    },
+    {
+      "name": "Ironalloyblocktoingot",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ironalloyblocktoingot"
+    },
+    {
+      "name": "Conduitbinder",
+      "type": "item",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "conduitbinder"
+    },
+    {
+      "name": "Basiccapacitor",
+      "type": "item",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basiccapacitor"
+    },
+    {
+      "name": "Improvedcapacitor",
+      "type": "item",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "improvedcapacitor"
+    },
+    {
+      "name": "Supercapacitor",
+      "type": "item",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "supercapacitor"
+    },
+    {
+      "name": "Vibrantalloynugget",
+      "type": "item",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vibrantalloynugget"
+    },
+    {
+      "name": "Soulariumnugget",
+      "type": "item",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "soulariumnugget"
+    },
+    {
+      "name": "Redstonealloynugget",
+      "type": "item",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "redstonealloynugget"
+    },
+    {
+      "name": "Pulsatingironnugget",
+      "type": "item",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pulsatingironnugget"
+    },
+    {
+      "name": "Conductiveironnugget",
+      "type": "item",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "conductiveironnugget"
+    },
+    {
+      "name": "Darksteelnugget",
+      "type": "item",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darksteelnugget"
+    },
+    {
+      "name": "Electricalsteelnugget",
+      "type": "item",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "electricalsteelnugget"
+    },
+    {
+      "name": "Energeticironnugget",
+      "type": "item",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "energeticironnugget"
+    },
+    {
+      "name": "Ironalloynugget",
+      "type": "item",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ironalloynugget"
+    },
+    {
+      "name": "Vibrantalloytonugget",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vibrantalloytonugget"
+    },
+    {
+      "name": "Nuggettovibrantalloy",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nuggettovibrantalloy"
+    },
+    {
+      "name": "Nuggettosoularium",
+      "type": "recipe",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nuggettosoularium"
+    },
+    {
+      "name": "Soulariumtonugget",
+      "type": "recipe",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "soulariumtonugget"
+    },
+    {
+      "name": "Redstonealloytonugget",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "redstonealloytonugget"
+    },
+    {
+      "name": "Nuggettoredstonealloy",
+      "type": "recipe",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nuggettoredstonealloy"
+    },
+    {
+      "name": "Nuggettopulsatingiron",
+      "type": "recipe",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nuggettopulsatingiron"
+    },
+    {
+      "name": "Pulsatingirontonugget",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pulsatingirontonugget"
+    },
+    {
+      "name": "Nuggettoconductiveiron",
+      "type": "recipe",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nuggettoconductiveiron"
+    },
+    {
+      "name": "Conductiveirontonugget",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "conductiveirontonugget"
+    },
+    {
+      "name": "Darksteeltonugget",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darksteeltonugget"
+    },
+    {
+      "name": "Nuggettodarksteel",
+      "type": "recipe",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nuggettodarksteel"
+    },
+    {
+      "name": "Nuggettoelectricalsteel",
+      "type": "recipe",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nuggettoelectricalsteel"
+    },
+    {
+      "name": "Electricalsteeltonugget",
+      "type": "recipe",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "electricalsteeltonugget"
+    },
+    {
+      "name": "Endsteelnugget",
+      "type": "item",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endsteelnugget"
+    },
+    {
+      "name": "Endsteeltonugget",
+      "type": "recipe",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endsteeltonugget"
+    },
+    {
+      "name": "Nuggettoendsteel",
+      "type": "recipe",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nuggettoendsteel"
+    },
+    {
+      "name": "Nuggettoenergeticiron",
+      "type": "recipe",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nuggettoenergeticiron"
+    },
+    {
+      "name": "Energeticirontonugget",
+      "type": "recipe",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "energeticirontonugget"
+    },
+    {
+      "name": "Ironalloytonugget",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ironalloytonugget"
+    },
+    {
+      "name": "Nuggettoironalloy",
+      "type": "recipe",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nuggettoironalloy"
+    },
+    {
+      "name": "Darkbimetalgear",
+      "type": "item",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkbimetalgear"
+    },
+    {
+      "name": "Vibrantbimetalgear",
+      "type": "item",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vibrantbimetalgear"
+    },
+    {
+      "name": "Energizedbimetalgear",
+      "type": "item",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "energizedbimetalgear"
+    },
+    {
+      "name": "Infinitybimetalgear",
+      "type": "item",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infinitybimetalgear"
+    },
+    {
+      "name": "Stonecompoundgear",
+      "type": "item",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stonecompoundgear"
+    },
+    {
+      "name": "Woodengear",
+      "type": "item",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "woodengear"
+    },
+    {
+      "name": "Woodengearcraft",
+      "type": "recipe",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "woodengearcraft"
+    },
+    {
+      "name": "Stonecompoundgearcraft",
+      "type": "recipe",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stonecompoundgearcraft"
+    },
+    {
+      "name": "Infinitybimetalgearcraft1",
+      "type": "recipe",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infinitybimetalgearcraft_1"
+    },
+    {
+      "name": "Infinitybimetalgearcraft2",
+      "type": "recipe",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infinitybimetalgearcraft_2"
+    },
+    {
+      "name": "Energizedbimetalgearcraft",
+      "type": "recipe",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "energizedbimetalgearcraft"
+    },
+    {
+      "name": "Vibrantbimetalgearcraft",
+      "type": "recipe",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vibrantbimetalgearcraft"
+    },
+    {
+      "name": "Darkbimetalgearcraft",
+      "type": "recipe",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkbimetalgearcraft"
+    },
+    {
+      "name": "Silicon",
+      "type": "item",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silicon"
+    },
+    {
+      "name": "Simplemachinechasis",
+      "type": "block",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "simplemachinechasis"
+    },
+    {
+      "name": "Simplemachinechasiscraft",
+      "type": "recipe",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "simplemachinechasiscraft"
+    },
+    {
+      "name": "Simplemachinechasiscraft2",
+      "type": "recipe",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "simplemachinechasiscraft_2"
+    },
+    {
+      "name": "Industrialmachinechasis",
+      "type": "block",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "industrialmachinechasis"
+    },
+    {
+      "name": "Alloysmeltercraft",
+      "type": "recipe",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "alloysmeltercraft"
+    },
+    {
+      "name": "Soulvial",
+      "type": "item",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "soulvial"
+    },
+    {
+      "name": "Basicitemfilter",
+      "type": "item",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basicitemfilter"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.ender_io_remake.yetawrench": "Yeta wrench",
+      "item.ender_io_remake.electricalsteelnugget": "Electrical steel nugget",
+      "item.ender_io_remake.silicon": "Silicon",
+      "item.ender_io_remake.endsteelingot": "End steel ingot",
+      "item.ender_io_remake.basicitemfilter": "Basic item filter",
+      "block.ender_io_remake.alloysmelter": "Alloy smelter",
+      "item.ender_io_remake.energeticalloyingot": "Energetic alloy ingot",
+      "item.ender_io_remake.endsteelnugget": "End steel nugget",
+      "item.ender_io_remake.stonecompoundgear": "Stone compound gear",
+      "item.ender_io_remake.energizedbimetalgear": "Energized bimetal gear",
+      "item.ender_io_remake.ironalloynugget": "Iron alloy nugget",
+      "item.ender_io_remake.redstonealloyingot": "Redstone alloy ingot",
+      "block.ender_io_remake.pulsatingironblock": "Pulsating iron block",
+      "item.ender_io_remake.soulariumnugget": "Soularium nugget",
+      "item.ender_io_remake.pulsatingironnugget": "Pulsating iron nugget",
+      "block.ender_io_remake.vibrantalloyblock": "Vibrant alloy block",
+      "item.ender_io_remake.ironalloyingot": "Iron alloy ingot",
+      "block.ender_io_remake.energeticironblock": "Energetic iron block",
+      "block.ender_io_remake.simplemachinechasis": "Simple machine chasis",
+      "item.ender_io_remake.darksteelingot": "Dark steel ingot",
+      "item.ender_io_remake.darksteelnugget": "Dark steel nugget",
+      "item.ender_io_remake.redstonealloynugget": "Redstone alloy nugget",
+      "block.ender_io_remake.soulariumblock": "Soulariumblock",
+      "item.ender_io_remake.darkbimetalgear": "Dark bimetal gear",
+      "block.ender_io_remake.ironalloyblock": "Iron alloy block",
+      "item.ender_io_remake.woodengear": "Wooden gear",
+      "item.ender_io_remake.vibrantalloynugget": "Vibrant alloy nugget",
+      "block.ender_io_remake.electricalsteelblock": "Electrical steel block",
+      "item.ender_io_remake.electricalsteelingot": "Electrica lsteel ingot",
+      "item.ender_io_remake.improvedcapacitor": "Improved capacitor",
+      "item.ender_io_remake.conductiveironingot": "Conductive iron ingot",
+      "item.ender_io_remake.energeticironnugget": "Energetic iron nugget",
+      "item.ender_io_remake.conductiveironnugget": "Conductiv eiron nugget",
+      "item.ender_io_remake.infinitybimetalgear": "Infinity bimetal gear",
+      "item.ender_io_remake.conduitbinder": "Conduit binder",
+      "block.ender_io_remake.industrialmachinechasis": "Industrial machine chasis",
+      "item.ender_io_remake.grainsofinfinity": "Grains of infinity",
+      "itemGroup.tabender_io_remake": "Ender IO Remake",
+      "item.ender_io_remake.soulariumingot": "Soularium ingot",
+      "block.ender_io_remake.conductiveironblock": "Conductive iron block",
+      "item.ender_io_remake.soulvial": "Soul vial",
+      "item.ender_io_remake.basiccapacitor": "Basic capacitor",
+      "item.ender_io_remake.vibrantbimetalgear": "Vibrant bimetal gear",
+      "item.ender_io_remake.pulsatingironingot": "Pulsating iron ingot",
+      "block.ender_io_remake.endsteelblock": "End steel block",
+      "block.ender_io_remake.darksteelblock": "Dark steel block",
+      "item.ender_io_remake.vibrantalloyingot": "Vibrant alloy ingot",
+      "block.ender_io_remake.redstonealloyblock": "Redstone alloy block",
+      "item.ender_io_remake.supercapacitor": "Super capacitor"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "ender_io_remake",
+    "modName": "Ender_IO_Remake",
+    "version": "1.0.0",
+    "author": "ORHAN, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.enderioremake",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100352418
+}

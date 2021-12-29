@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "ender_io_remake:darksteelnugget"
+    },
+    "1": {
+      "item": "ender_io_remake:darksteelnugget"
+    },
+    "2": {
+      "item": "ender_io_remake:darksteelnugget"
+    },
+    "3": {
+      "item": "ender_io_remake:darksteelnugget"
+    },
+    "4": {
+      "item": "ender_io_remake:infinitybimetalgear"
+    },
+    "5": {
+      "item": "ender_io_remake:darksteelnugget"
+    },
+    "6": {
+      "item": "ender_io_remake:darksteelnugget"
+    },
+    "7": {
+      "item": "ender_io_remake:darksteelnugget"
+    },
+    "8": {
+      "item": "ender_io_remake:darksteelnugget"
+    }
+  },
+  "result": {
+    "item": "ender_io_remake:darkbimetalgear",
+    "count": 1
+  }
+}

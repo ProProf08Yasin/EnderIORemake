@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ender_io_remake:darksteelblock"
+    }
+  ],
+  "result": {
+    "item": "ender_io_remake:darksteelingot",
+    "count": 9
+  }
+}

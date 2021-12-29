@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ender_io_remake:blocks/dark_steel_block",
+    "up": "ender_io_remake:blocks/dark_steel_block",
+    "north": "ender_io_remake:blocks/dark_steel_block",
+    "east": "ender_io_remake:blocks/dark_steel_block",
+    "south": "ender_io_remake:blocks/dark_steel_block",
+    "west": "ender_io_remake:blocks/dark_steel_block",
+    "particle": "ender_io_remake:blocks/dark_steel_block"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "ender_io_remake:soulariumnugget"
+    },
+    "1": {
+      "item": "ender_io_remake:soulariumnugget"
+    },
+    "2": {
+      "item": "ender_io_remake:soulariumnugget"
+    },
+    "3": {
+      "item": "ender_io_remake:soulariumnugget"
+    },
+    "4": {
+      "item": "ender_io_remake:soulariumnugget"
+    },
+    "5": {
+      "item": "ender_io_remake:soulariumnugget"
+    },
+    "6": {
+      "item": "ender_io_remake:soulariumnugget"
+    },
+    "7": {
+      "item": "ender_io_remake:soulariumnugget"
+    },
+    "8": {
+      "item": "ender_io_remake:soulariumnugget"
+    }
+  },
+  "result": {
+    "item": "ender_io_remake:soulariumingot",
+    "count": 1
+  }
+}

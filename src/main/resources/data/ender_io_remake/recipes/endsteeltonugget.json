@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "ender_io_remake:endsteelingot"
+    }
+  },
+  "result": {
+    "item": "ender_io_remake:endsteelnugget",
+    "count": 9
+  }
+}

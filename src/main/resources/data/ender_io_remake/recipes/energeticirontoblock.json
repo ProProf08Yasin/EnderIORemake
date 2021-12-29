@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "ender_io_remake:energeticalloyingot"
+    },
+    "1": {
+      "item": "ender_io_remake:energeticalloyingot"
+    },
+    "2": {
+      "item": "ender_io_remake:energeticalloyingot"
+    },
+    "3": {
+      "item": "ender_io_remake:energeticalloyingot"
+    },
+    "4": {
+      "item": "ender_io_remake:energeticalloyingot"
+    },
+    "5": {
+      "item": "ender_io_remake:energeticalloyingot"
+    },
+    "6": {
+      "item": "ender_io_remake:energeticalloyingot"
+    },
+    "7": {
+      "item": "ender_io_remake:energeticalloyingot"
+    },
+    "8": {
+      "item": "ender_io_remake:energeticalloyingot"
+    }
+  },
+  "result": {
+    "item": "ender_io_remake:energeticironblock",
+    "count": 1
+  }
+}

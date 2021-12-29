@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "ender_io_remake:conductiveironingot"
+    },
+    "1": {
+      "item": "ender_io_remake:conductiveironingot"
+    },
+    "2": {
+      "item": "ender_io_remake:conductiveironingot"
+    },
+    "3": {
+      "item": "ender_io_remake:conductiveironingot"
+    },
+    "4": {
+      "item": "ender_io_remake:conductiveironingot"
+    },
+    "5": {
+      "item": "ender_io_remake:conductiveironingot"
+    },
+    "6": {
+      "item": "ender_io_remake:conductiveironingot"
+    },
+    "7": {
+      "item": "ender_io_remake:conductiveironingot"
+    },
+    "8": {
+      "item": "ender_io_remake:conductiveironingot"
+    }
+  },
+  "result": {
+    "item": "ender_io_remake:conductiveironblock",
+    "count": 1
+  }
+}

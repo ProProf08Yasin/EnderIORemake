@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ender_io_remake:pulsatingironblock"
+    }
+  ],
+  "result": {
+    "item": "ender_io_remake:pulsatingironingot",
+    "count": 9
+  }
+}

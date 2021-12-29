@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ender_io_remake:blocks/energetic_iron_ingot",
+    "up": "ender_io_remake:blocks/energetic_iron_ingot",
+    "north": "ender_io_remake:blocks/energetic_iron_ingot",
+    "east": "ender_io_remake:blocks/energetic_iron_ingot",
+    "south": "ender_io_remake:blocks/energetic_iron_ingot",
+    "west": "ender_io_remake:blocks/energetic_iron_ingot",
+    "particle": "ender_io_remake:blocks/energetic_iron_ingot"
+  }
+}

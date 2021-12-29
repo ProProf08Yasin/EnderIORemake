@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "ender_io_remake:electricalsteelnugget"
+    },
+    "1": {
+      "item": "ender_io_remake:electricalsteelnugget"
+    },
+    "2": {
+      "item": "ender_io_remake:electricalsteelnugget"
+    },
+    "3": {
+      "item": "ender_io_remake:electricalsteelnugget"
+    },
+    "4": {
+      "item": "ender_io_remake:electricalsteelnugget"
+    },
+    "5": {
+      "item": "ender_io_remake:electricalsteelnugget"
+    },
+    "6": {
+      "item": "ender_io_remake:electricalsteelnugget"
+    },
+    "7": {
+      "item": "ender_io_remake:electricalsteelnugget"
+    },
+    "8": {
+      "item": "ender_io_remake:electricalsteelnugget"
+    }
+  },
+  "result": {
+    "item": "ender_io_remake:electricalsteelingot",
+    "count": 1
+  }
+}

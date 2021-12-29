@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ender_io_remake:energeticalloyingot"
+    }
+  ],
+  "result": {
+    "item": "ender_io_remake:energeticironnugget",
+    "count": 9
+  }
+}

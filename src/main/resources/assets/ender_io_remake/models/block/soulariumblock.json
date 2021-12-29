@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ender_io_remake:blocks/soularium_block",
+    "up": "ender_io_remake:blocks/soularium_block",
+    "north": "ender_io_remake:blocks/soularium_block",
+    "east": "ender_io_remake:blocks/soularium_block",
+    "south": "ender_io_remake:blocks/soularium_block",
+    "west": "ender_io_remake:blocks/soularium_block",
+    "particle": "ender_io_remake:blocks/soularium_block"
+  }
+}

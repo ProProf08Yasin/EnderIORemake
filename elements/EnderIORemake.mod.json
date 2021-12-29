@@ -1,0 +1,11 @@
+{
+  "_fv": 24,
+  "_type": "tab",
+  "definition": {
+    "name": "Ender IO Remake",
+    "icon": {
+      "value": "CUSTOM:Yetawrench"
+    },
+    "showSearch": false
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "ender_io_remake:darksteelingot"
+    },
+    "1": {
+      "item": "minecraft:furnace"
+    },
+    "2": {
+      "item": "ender_io_remake:darksteelingot"
+    },
+    "3": {
+      "item": "minecraft:furnace"
+    },
+    "4": {
+      "item": "ender_io_remake:industrialmachinechasis"
+    },
+    "5": {
+      "item": "minecraft:furnace"
+    },
+    "6": {
+      "item": "ender_io_remake:darkbimetalgear"
+    },
+    "7": {
+      "item": "minecraft:cauldron"
+    },
+    "8": {
+      "item": "ender_io_remake:darkbimetalgear"
+    }
+  },
+  "result": {
+    "item": "ender_io_remake:alloysmelter",
+    "count": 1
+  }
+}

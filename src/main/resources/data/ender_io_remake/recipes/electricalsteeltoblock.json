@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "ender_io_remake:electricalsteelingot"
+    },
+    "1": {
+      "item": "ender_io_remake:electricalsteelingot"
+    },
+    "2": {
+      "item": "ender_io_remake:electricalsteelingot"
+    },
+    "3": {
+      "item": "ender_io_remake:electricalsteelingot"
+    },
+    "4": {
+      "item": "ender_io_remake:electricalsteelingot"
+    },
+    "5": {
+      "item": "ender_io_remake:electricalsteelingot"
+    },
+    "6": {
+      "item": "ender_io_remake:electricalsteelingot"
+    },
+    "7": {
+      "item": "ender_io_remake:electricalsteelingot"
+    },
+    "8": {
+      "item": "ender_io_remake:electricalsteelingot"
+    }
+  },
+  "result": {
+    "item": "ender_io_remake:electricalsteelblock",
+    "count": 1
+  }
+}

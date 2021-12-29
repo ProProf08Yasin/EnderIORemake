@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "ender_io_remake:pulsatingironingot"
+    },
+    "1": {
+      "item": "ender_io_remake:pulsatingironingot"
+    },
+    "2": {
+      "item": "ender_io_remake:pulsatingironingot"
+    },
+    "3": {
+      "item": "ender_io_remake:pulsatingironingot"
+    },
+    "4": {
+      "item": "ender_io_remake:pulsatingironingot"
+    },
+    "5": {
+      "item": "ender_io_remake:pulsatingironingot"
+    },
+    "6": {
+      "item": "ender_io_remake:pulsatingironingot"
+    },
+    "7": {
+      "item": "ender_io_remake:pulsatingironingot"
+    },
+    "8": {
+      "item": "ender_io_remake:pulsatingironingot"
+    }
+  },
+  "result": {
+    "item": "ender_io_remake:pulsatingironblock",
+    "count": 1
+  }
+}

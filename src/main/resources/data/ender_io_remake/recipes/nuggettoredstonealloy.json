@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "ender_io_remake:redstonealloynugget"
+    },
+    "1": {
+      "item": "ender_io_remake:redstonealloynugget"
+    },
+    "2": {
+      "item": "ender_io_remake:redstonealloynugget"
+    },
+    "3": {
+      "item": "ender_io_remake:redstonealloynugget"
+    },
+    "4": {
+      "item": "ender_io_remake:redstonealloynugget"
+    },
+    "5": {
+      "item": "ender_io_remake:redstonealloynugget"
+    },
+    "6": {
+      "item": "ender_io_remake:redstonealloynugget"
+    },
+    "7": {
+      "item": "ender_io_remake:redstonealloynugget"
+    },
+    "8": {
+      "item": "ender_io_remake:redstonealloynugget"
+    }
+  },
+  "result": {
+    "item": "ender_io_remake:redstonealloyingot",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ender_io_remake:redstonealloyingot"
+    }
+  ],
+  "result": {
+    "item": "ender_io_remake:redstonealloynugget",
+    "count": 9
+  }
+}

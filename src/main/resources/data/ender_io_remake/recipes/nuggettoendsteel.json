@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "ender_io_remake:endsteelnugget"
+    },
+    "1": {
+      "item": "ender_io_remake:endsteelnugget"
+    },
+    "2": {
+      "item": "ender_io_remake:endsteelnugget"
+    },
+    "3": {
+      "item": "ender_io_remake:endsteelnugget"
+    },
+    "4": {
+      "item": "ender_io_remake:endsteelnugget"
+    },
+    "5": {
+      "item": "ender_io_remake:endsteelnugget"
+    },
+    "6": {
+      "item": "ender_io_remake:endsteelnugget"
+    },
+    "7": {
+      "item": "ender_io_remake:endsteelnugget"
+    },
+    "8": {
+      "item": "ender_io_remake:endsteelnugget"
+    }
+  },
+  "result": {
+    "item": "ender_io_remake:endsteelingot",
+    "count": 1
+  }
+}

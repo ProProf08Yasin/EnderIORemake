@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ender_io_remake:conductiveironingot"
+    }
+  ],
+  "result": {
+    "item": "ender_io_remake:conductiveironnugget",
+    "count": 9
+  }
+}

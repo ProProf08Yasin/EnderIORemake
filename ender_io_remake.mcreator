@@ -900,6 +900,53 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "basicitemfilter"
+    },
+    {
+      "name": "Solarpanel",
+      "type": "block",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "solarpanel"
+    },
+    {
+      "name": "Cabacitorbank",
+      "type": "block",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cabacitorbank"
+    },
+    {
+      "name": "SolarpanelBlockAdded",
+      "type": "procedure",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "solarpanel_block_added",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -914,8 +961,10 @@
       "block.ender_io_remake.alloysmelter": "Alloy smelter",
       "item.ender_io_remake.energeticalloyingot": "Energetic alloy ingot",
       "item.ender_io_remake.endsteelnugget": "End steel nugget",
+      "block.ender_io_remake.solarpanel": "Solar panel",
       "item.ender_io_remake.stonecompoundgear": "Stone compound gear",
       "item.ender_io_remake.energizedbimetalgear": "Energized bimetal gear",
+      "block.ender_io_remake.cabacitorbank": "Cabacitor bank",
       "item.ender_io_remake.ironalloynugget": "Iron alloy nugget",
       "item.ender_io_remake.redstonealloyingot": "Redstone alloy ingot",
       "block.ender_io_remake.pulsatingironblock": "Pulsating iron block",

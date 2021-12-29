@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ender_io_remake:blocks/capacitor_bank_side",
+    "up": "ender_io_remake:blocks/capacitor_bank_side",
+    "north": "ender_io_remake:blocks/capacitor_bank_front",
+    "east": "ender_io_remake:blocks/capacitor_bank_side",
+    "south": "ender_io_remake:blocks/capacitor_bank_side",
+    "west": "ender_io_remake:blocks/capacitor_bank_side",
+    "particle": "ender_io_remake:blocks/capacitor_bank_side"
+  }
+}

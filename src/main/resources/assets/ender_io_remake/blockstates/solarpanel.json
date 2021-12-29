@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ender_io_remake:block/solarpanel"
+    },
+    "type=top": {
+      "model": "ender_io_remake:block/solarpanel_top"
+    },
+    "type=double": {
+      "model": "ender_io_remake:block/solarpanel_full"
+    }
+  }
+}
